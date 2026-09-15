@@ -7,6 +7,10 @@
 ![CI](https://github.com/chidou59/ref-reconstructor/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<p align="center">
+  <img src="docs/assets/readme-hero.png" alt="从原始 Word 引用到完整参考文献的重构流程插图" width="100%" />
+</p>
+
 ## 功能
 
 - 上传并解析 `.docx` 文档。
